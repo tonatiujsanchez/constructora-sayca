@@ -43,7 +43,7 @@ export const Hero = () => {
                         <Image
                             src={ slide.img }
                             alt={ slide.title }
-                            width={1920}
+                            width={1600}
                             height={400}
                             className="h-full object-cover"
                         />
